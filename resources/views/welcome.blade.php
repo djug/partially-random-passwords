@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Password Based Roles and Actions (PoC)
+                    Partially random passwords (PoC)
                 </div>
             </div>
         </div>
